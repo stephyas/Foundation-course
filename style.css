@@ -1,0 +1,13 @@
+.mynav{
+    background-color:cornflowerblue;
+}
+.full{
+    margin-top:30px;
+}
+.myfooter{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    background-color: rgb(167, 167, 212);
+}
